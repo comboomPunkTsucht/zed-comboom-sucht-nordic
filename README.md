@@ -1,5 +1,5 @@
 # Nordic
-Simply a Nordic Vscode port for Zed based from https://marketplace.visualstudio.com/items?itemName=bonchol.nordic-vscode
+Simply a [Nordic Vscode](https://marketplace.visualstudio.com/items?itemName=bonchol.nordic-vscode) port for Zed based from
 
 ## Preview
 <img src="assets/nordic.png" width="546">

@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["mcpeapsUnterstrichHD <mcpeaps_HD@outlook.com>"]
 description = "This is a theme in the comboom.sucht color schema in the Nord/Nordic Color pallet."
-repository = "https://github.com/comboomPunkTsucht/vsc-comboom-sucht-nordic.git"
+repository = "https://github.com/comboomPunkTsucht/zed-comboom-sucht-nordic.git"

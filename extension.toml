@@ -1,7 +1,7 @@
-id = "nordic-theme"
-name = "Nordic Theme"
-version = "0.5.1"
+id = "zed-comboom-sucht-nordic"
+name = "comboom.sucht (Nordic)"
+version = "0.0.1"
 schema_version = 1
-authors = ["blaqat <blaqat.ag@gmail.com>"]
-description = "Nordic theme for Zed"
-repository = "https://github.com/biaqat/nordic-theme-zed"
+authors = ["mcpeapsUnterstrichHD <mcpeaps_HD@outlook.com>"]
+description = "This is a theme in the comboom.sucht color schema in the Nord/Nordic Color pallet."
+repository = "https://github.com/comboomPunkTsucht/vsc-comboom-sucht-nordic.git"

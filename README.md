@@ -1,6 +1,6 @@
-# Nordic
-Simply a [Nordic Vscode](https://marketplace.visualstudio.com/items?itemName=bonchol.nordic-vscode) port for Zed based from
-
+# comboom.sucht (Nordic)
+This is a theme in the comboom.sucht color schema in the Nord/Nordic Color pallet.
+Simply a [Nordic](https://github.com/bIaqat/nordic-theme-zed) port
 ## Preview
 <img src="assets/nordic.png" width="546">
 
